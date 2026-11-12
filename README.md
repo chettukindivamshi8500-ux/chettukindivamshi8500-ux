@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Vamshi 👋
 
-<!--
-**chettukindivamshi8500-ux/chettukindivamshi8500-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a third-year Computer Science student passionate about programming, web development, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Currently pursuing B.Tech in Computer Science.
+- 💻 Interested in Software Development and DevOps.
+- 🌱 Learning new technologies and improving my coding skills.
+- 🎯 Focused on building practical projects and gaining experience.
+
+## 🛠️ Technical Skills
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Web Development:** Node.js, Streamlit
+- **Tools:** Git, GitHub, VS Code, Docker, Jenkins
+- **Learning:** Flutter, DevOps
+
+## 📂 My Projects
+- BrandPhantom – Digital Risk Protection and Monitoring
+- CSE Projects – `csec-b1` to `csec-b6`
+- Further Projects – `csec-f1` to `csec-f6`
+
+## 📈 My Goals
+- Build real-world projects.
+- Improve problem-solving skills.
+- Learn modern development technologies.
+- Become a skilled software developer.
+
+## 🤝 Connect With Me
+- GitHub: [@chettukindivamshi8500-ux](https://github.com/chettukindivamshi8500-ux)
+
+---
+⭐ Thanks for visiting my profile!
